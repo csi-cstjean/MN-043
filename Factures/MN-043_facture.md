@@ -7,7 +7,6 @@
 | État | Réglée — campagne active |
 
 ## Émetteur
-**Elias Varga**
 Alias opérationnel : `ghostwriter`
 
 ## Facturé à
