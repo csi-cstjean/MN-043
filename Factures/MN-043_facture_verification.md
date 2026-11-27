@@ -21,7 +21,7 @@ Ajout de l’interface de vérification des lots à la plateforme MIROIR NOIR Ex
 
 ## Adresse de l’interface
 
-`http://localhost:3001/verification/{numéro-du-lot}`
+`http://{URL}:3001/verification/{numéro-du-lot}`
 
 ## Prestations livrées
 
